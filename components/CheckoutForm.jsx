@@ -98,7 +98,6 @@ function CheckoutForm({ displayAmount, clientSecret, handleOrderStates }) {
 						<a
 							className='text-indigo-400 font-semibold'
 							href='https://dashboard.stripe.com/test/payments'
-							target='_blank'
 						>
 							{' '}
 							Stripe dashboard
